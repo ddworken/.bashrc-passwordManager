@@ -5,3 +5,5 @@ A simple password manager made to placed in one's .bashrc file. Once added to .b
 Installation
 =======================
 Run this command in terminal to install passwordManager. 
+
+`cd ~ && git clone https://github.com/ddworken/.bashrc-passwordManager.git && cd .bashrc-passwordManager/ && cat passwordManager >> ../.bashrc && cd .. && rm -rf .bashrc-passwordManager/`
